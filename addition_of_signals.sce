@@ -12,3 +12,5 @@ plot(t,y)
 title("206-Addition of two signals");
 xlabel('t');
 ylabel('x');
+
+
